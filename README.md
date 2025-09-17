@@ -46,25 +46,5 @@ It provides a set of basic Unix-like commands for working with files, directorie
 
 ---
 
-## Example  
-
-My-shell[workspace]> list
-[DIR]  src
-[FILE] main.py
-[FILE] README.md
-
-My-shell[workspace]> pwd
-/home/user/workspace
-
-My-shell[workspace]> date
-17-sep-2025
-
-My-shell[workspace]> time -hours
-15
-
-My-shell[workspace]> exit
-Exiting shell.
-
-
 
 
